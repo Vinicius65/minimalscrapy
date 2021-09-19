@@ -1,0 +1,6 @@
+{
+    "image": "viniciusbss/scrapy:release",
+    "extensions": [
+        "ms-python.python"
+    ]
+}
